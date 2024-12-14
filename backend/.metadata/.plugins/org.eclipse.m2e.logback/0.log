@@ -1214,3 +1214,56 @@
 2567-12-13 17:34:57,309 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
 2567-12-13 17:35:01,678 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2567-12-13 17:35:01,682 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-13 17:35:01,684 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-13 20:45:22,299 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2567-12-14 09:50:27,974 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2567-12-14 09:58:05,191 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 09:58:05,204 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 09:58:05,207 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 09:58:33,701 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 09:58:33,704 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 09:58:33,707 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 09:58:54,399 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 09:58:54,401 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 09:58:54,405 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 09:59:05,974 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 09:59:05,978 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 09:59:05,979 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 09:59:17,029 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 09:59:17,032 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 09:59:17,034 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 09:59:23,255 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 09:59:23,260 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 09:59:23,262 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:00:18,318 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:00:18,321 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:00:18,323 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:00:33,300 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:00:33,303 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:00:33,306 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:00:53,805 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:00:53,808 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:00:53,809 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:01:00,807 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:01:00,810 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:01:00,811 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:01:03,724 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:01:03,727 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:01:03,732 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:01:45,218 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:01:45,221 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:01:45,223 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:01:55,831 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:01:55,834 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:01:55,835 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:02:18,781 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:02:18,784 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:02:18,786 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:02:22,677 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:02:22,688 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:02:22,690 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:03:16,017 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:03:16,020 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2567-12-14 10:03:16,022 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-14 10:03:33,540 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2567-12-14 10:03:33,545 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
