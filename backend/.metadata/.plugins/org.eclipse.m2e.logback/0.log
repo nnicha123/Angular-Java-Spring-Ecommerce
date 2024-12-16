@@ -1467,3 +1467,4 @@
 2567-12-15 15:25:38,318 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2567-12-15 15:25:38,321 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2567-12-15 15:25:38,323 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Nicha\Desktop\Angular-Java-Spring-Ecommerce\backend\spring-boot-ecommerce\src\test\resources
+2567-12-16 09:47:49,316 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
